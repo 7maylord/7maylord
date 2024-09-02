@@ -14,17 +14,17 @@ I'm a Software Engineer. I'm passionate about solving problems, writing code, le
 - 💼 Job interests: Software Engineer, Backend Engineer(Junior - Mid level).
 - 📫 How to reach me: <a href="mailto:olumideadenigba@gmail.com">olumideadenigba@gmail.com </a>
 
-#### Stats
+<!-- #### Stats -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=7maylord&hide=stars,prs,issues,contribs&count_private=true&rank_icon=github&show_icons=true&theme=vue" />
 </a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7maylord&layout=compact" />
 </a> 
 
-[<img alt="Maylord's WakaTime stats" height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Maylord&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Maylord's WakaTime stats" height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Maylord&layout=compact">](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
