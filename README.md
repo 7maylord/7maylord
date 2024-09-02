@@ -12,15 +12,19 @@ I'm a Software Engineer. I'm passionate about solving problems, writing code, le
 - 👩🏽‍💻 Stack: MongoDb, Express, Typescript, Node.
 - 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer(Junior - Mid level).
-- 📫 How to reach me: <a href="mailto:olumideadenigba@gmail.com">olumideadenigba@gmail.com<a/>
+- 📫 How to reach me: <a href="mailto:olumideadenigba@gmail.com">olumideadenigba@gmail.com </a>
 
 #### Stats
 
-<a href="https://github.com/7maylord/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7maylord&hide=stars&count_private=true&show_icons=true&theme=vue" />
-</a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=7maylord&hide=stars,prs,issues,contribs&count_private=true&rank_icon=github&show_icons=true&theme=vue" />
+</a> -->
 
-<a href="https://github.com/7maylord/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7maylord&layout=compact" />
-</a>
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7maylord&layout=compact" />
+</a> 
+
+[<img alt="Maylord's WakaTime stats" height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Maylord&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+
+
+
