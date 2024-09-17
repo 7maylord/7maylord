@@ -7,10 +7,10 @@ I'm a Software Engineer. I'm passionate about solving problems, writing code, le
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and NodeJs.
-- 👩🏽‍💻 Stack: MongoDb, Express, Typescript, Node.
-- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
+- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Tinyuka Class of 2023
+- 🌱 I’m currently JavaScript, NodeJs and experimenting with solidity.
+- 👩🏽‍💻 Stack: MongoDb, Express, Typescript, Node.js.
+- 😊 I’m open to collaborating on open source projects, hackathons, and also on the lookout for job opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer(Junior - Mid level).
 - 📫 How to reach me: <a href="mailto:olumideadenigba@gmail.com">olumideadenigba@gmail.com </a>
 
